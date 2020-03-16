@@ -11,4 +11,4 @@ clean:
 	rm README.md
 
 publish:
-	cp README.md index.html
+	cp README.md index.md
