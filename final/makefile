@@ -10,5 +10,4 @@ README.md: guessinggame.sh
 clean:
 	rm README.md
 
-publish:
-	cp README.md index.md
+
