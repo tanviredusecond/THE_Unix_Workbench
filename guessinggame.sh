@@ -23,7 +23,7 @@ chalange(){
 
 main(){
     chalange
-    ans=$( ls -l | grep "^-" | wc -l )
+    ans=$( ls -l -a | grep "^-" | wc -l )
 
 
     ## we create a infinity loop and ask for a number
