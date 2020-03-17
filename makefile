@@ -1,4 +1,3 @@
-#!/bin/bash
 all: README.md
 
 README.md: guessinggame.sh
